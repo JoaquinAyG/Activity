@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="send_to_2">SEND TO 2</string>
+    <string name="send_to_3">SEND TO 3</string>
+    <string name="quit">BACK</string>
+    <string name="send_to_1">SEND TO 1</string>
+</resources>
